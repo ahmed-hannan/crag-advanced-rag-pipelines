@@ -1,0 +1,28 @@
+# Config with API keys
+config/config.yaml
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# Frontend dependencies & build outputs
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Large raw datasets (downloadable separately)
+dataset/*.jsonl
+dataset/*.bz2
+!dataset/.gitkeep
+
+# System & temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

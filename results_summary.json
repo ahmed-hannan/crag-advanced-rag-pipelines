@@ -1,0 +1,44 @@
+{
+  "basic_rag": {
+    "correct": 15,
+    "total": 100,
+    "accuracy": 0.15,
+    "avg_time": 0.2955505847930908
+  },
+  "multi_query_rag": {
+    "correct": 15,
+    "total": 100,
+    "accuracy": 0.15,
+    "avg_time": 0.24536081075668334
+  },
+  "rrr": {
+    "correct": 15,
+    "total": 100,
+    "accuracy": 0.15,
+    "avg_time": 0.24267305850982665
+  },
+  "rag_fusion": {
+    "correct": 13,
+    "total": 100,
+    "accuracy": 0.13,
+    "avg_time": 0.24796963930130006
+  },
+  "hyde": {
+    "correct": 15,
+    "total": 100,
+    "accuracy": 0.15,
+    "avg_time": 0.28070912599563597
+  },
+  "crag": {
+    "correct": 15,
+    "total": 100,
+    "accuracy": 0.15,
+    "avg_time": 0.1894254779815674
+  },
+  "graph_rag": {
+    "correct": 13,
+    "total": 100,
+    "accuracy": 0.13,
+    "avg_time": 0.18705973625183106
+  }
+}
